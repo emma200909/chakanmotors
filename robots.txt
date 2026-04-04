@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Sitemap: https://착한모터스.com/sitemap.xml
+
+User-agent: Yeti
+Allow: /
+
+User-agent: Googlebot
+Allow: /
